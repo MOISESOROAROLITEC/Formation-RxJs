@@ -1,0 +1,19 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "formation RxJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rxjs",
+    "javascript",
+    "ts"
+  ],
+  "author": "SORO COLOTCHOLOMAN",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
