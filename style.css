@@ -69,18 +69,3 @@ body {
 	position: relative;
 	top: 6px;
 }
-
-.paragraphe {
-	margin: 2rem auto;
-	width: 80%;
-	font-size: 1.5rem;
-}
-
-.progress-bar {
-	position: fixed;
-	width: 50%;
-	height: 4px;
-	top: 0;
-	left: 0;
-	background-color: #ff16b7;
-}
