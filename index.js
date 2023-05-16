@@ -8,8 +8,14 @@ function getScrollPercentage(target) {
 	return (scrollTop / (scrollHeight - clientHeight)) * 100;
 }
 
+const progressBar = document.querySelector('.progress-bar')
+console.log(progressBar);
+
 const percentage$ = source$.pipe(
 	map(({ target }) => getScrollPercentage(target.documentElement))
 )
 
-const percent = percentage$.subscribe(el => console.log(el));
+percentage$.subscribe(el => {
+	progressBar.style.width = `${el}%`;
+	// console.log(progressBar);
+});
