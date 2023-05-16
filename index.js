@@ -1,21 +1,10 @@
-import { filter, fromEvent, map } from "rxjs";
+const number = [1, 2, 3, 4, 5];
 
-const source$ = fromEvent(document, "scroll");
-
-function getScrollPercentage(target) {
-	// console.log("la cible est : ", target);
-	const { scrollTop, scrollHeight, clientHeight } = target;
-	return (scrollTop / (scrollHeight - clientHeight)) * 100;
+function ttReducer(accumule, current) {
+	console.log({ accumule, current });
+	return accumule += current
 }
 
-const progressBar = document.querySelector('.progress-bar')
-console.log(progressBar);
+const total = number.reduce(ttReducer, 0);
 
-const percentage$ = source$.pipe(
-	map(({ target }) => getScrollPercentage(target.documentElement))
-)
-
-percentage$.subscribe(el => {
-	progressBar.style.width = `${el}%`;
-	// console.log(progressBar);
-});
+console.log("Total is : ", total);
