@@ -78,7 +78,7 @@ body {
 
 .progress-bar {
 	position: fixed;
-	width: 50%;
+	width: 0%;
 	height: 4px;
 	top: 0;
 	left: 0;
