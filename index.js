@@ -1,12 +1,16 @@
-import { from, interval, reduce } from "rxjs";
+import { interval } from "rxjs";
+import { reduce, take } from "rxjs/operators";
 
 const number = [1, 2, 3, 4, 5];
 
-function ttReducer(accumule, current) {
-	console.log({ accumule, current });
-	return accumule += current
+const ttReducer = (accumule, current) => {
+	return accumule + current
 }
 
-interval(1000).pipe(
-	reduce(ttReducer)
-).subscribe(console.log)
+interval(100).pipe(
+	take(5),
+	reduce(ttReducer, 0)
+).subscribe({
+	next: console.log,
+	complete: () => console.log("Prosses is finished")
+})
