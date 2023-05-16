@@ -1,3 +1,5 @@
+import { from, interval, reduce } from "rxjs";
+
 const number = [1, 2, 3, 4, 5];
 
 function ttReducer(accumule, current) {
@@ -5,6 +7,6 @@ function ttReducer(accumule, current) {
 	return accumule += current
 }
 
-const total = number.reduce(ttReducer, 0);
-
-console.log("Total is : ", total);
+interval(1000).pipe(
+	reduce(ttReducer)
+).subscribe(console.log)
