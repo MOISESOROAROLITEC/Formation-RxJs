@@ -6,7 +6,7 @@ const number = [1, 2, 3, 4, 5];
 const countdown = document.getElementsByClassName('countdown')[0]
 const message = document.getElementsByClassName('message')[0]
 
-const subscroptor = interval(500).pipe(
+const subscroptor = interval(1000).pipe(
 	map(() => -1),
 
 	scan((accumulator, value) => {
