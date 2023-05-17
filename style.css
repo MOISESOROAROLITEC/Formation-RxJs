@@ -70,18 +70,19 @@ body {
 	top: 6px;
 }
 
-.countdown {
-	margin: 4rem;
-	margin-bottom: 0;
-	padding: 2rem;
-	padding-bottom: 1rem;
-	font-size: 4rem;
-	font-weight: 600;
+.paragraphe {
+	margin: 2rem auto;
+	width: 80%;
+	font-size: 1.5rem;
 }
 
-.message {
-	font-size: 2rem;
-	font-weight: 400;
+.progress-bar {
+	position: fixed;
+	width: 00%;
+	height: 4px;
+	top: 0;
+	left: 0;
+	background-color: #ff16b7;
 }
 
 button.stop_btn {
