@@ -1,20 +1,13 @@
-import { interval } from 'rxjs';
-import { throttleTime, sampleTime } from 'rxjs/operators';
+import { fromEvent, interval } from "rxjs";
+import { map, sample, sampleTime } from "rxjs/operators";
 
-// Création d'un observable émettant une valeur toutes les 200 millisecondes
-const source = interval(200);
+const click$ = fromEvent(document, "click");
+const timer$ = interval(500);
 
-// Utilisation de l'opérateur throttleTime pour émettre la première valeur toutes les 500 millisecondes
-const throttled = source.pipe(throttleTime(500));
+timer$.pipe(
 
-// Utilisation de l'opérateur sampleTime pour émettre la dernière valeur toutes les 500 millisecondes
-const sampled = source.pipe(sampleTime(500));
+	sampleTime(1000),
+	sample(click$),
+	// map(({ clientX, clientY }) => ({ clientX, clientY }))
 
-// Souscription aux observables résultants
-throttled.subscribe(value => {
-	console.log('Throttled:', value);
-});
-
-sampled.subscribe(value => {
-	console.log('Sampled:', value);
-});
+).subscribe((el) => console.log("el est : ", el))
