@@ -1,13 +1,19 @@
 import { fromEvent, interval } from "rxjs";
-import { map, sample, sampleTime } from "rxjs/operators";
+import { map, mergeMap, takeUntil } from "rxjs/operators";
 
 const click$ = fromEvent(document, "click");
-const timer$ = interval(500);
+const mousedown$ = fromEvent(document, 'mousedown');
+const mouseup$ = fromEvent(document, 'mouseup');
+const interval$ = interval(500);
 
-timer$.pipe(
+mousedown$.pipe(
 
-	sampleTime(1000),
-	sample(click$),
-	// map(({ clientX, clientY }) => ({ clientX, clientY }))
+	mergeMap(() => interval$.pipe(
+		takeUntil(mouseup$)
+	))
 
-).subscribe((el) => console.log("el est : ", el))
+).subscribe({
+	next: el => console.log("el est : ", el),
+	error: er => console.log("l'erreur est : ", er),
+	complete: () => console.log("Fin du traitement")
+})
