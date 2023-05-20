@@ -1,0 +1,1472 @@
+{
+	"data": {
+		"id": 262017,
+		"common_name": "Meadowsweet",
+		"slug": "filipendula-ulmaria",
+		"scientific_name": "Filipendula ulmaria",
+		"year": 1879,
+		"bibliography": "Trudy Imp. S.-Peterburgsk. Bot. Sada 6: 251 (1879)",
+		"author": "(L.) Maxim.",
+		"status": "accepted",
+		"rank": "species",
+		"family_common_name": "Rose family",
+		"genus_id": 12148,
+		"observations": "Europe to S. Russian Far East and Iran",
+		"vegetable": false,
+		"image_url": "https://bs.plantnet.org/image/o/53c73903dc455a3d734b193dad7d9d8c4ec0e324",
+		"genus": "Filipendula",
+		"family": "Rosaceae",
+		"duration": null,
+		"edible_part": null,
+		"edible": false,
+		"images": {
+			"flower": [
+				{
+					"id": 460007,
+					"image_url": "https://bs.plantnet.org/image/o/28bcfd609f19fc7ce87d66d6601ea3a03018a958",
+					"copyright": "Taken Jul 21, 2020 by Gilles Luciani (cc-by-sa)"
+				},
+				{
+					"id": 460008,
+					"image_url": "https://bs.plantnet.org/image/o/d45b1cb79ee747cbba0a76167fde1ae41ffe4634",
+					"copyright": "Taken Jul 14, 2019 by Spolaor Dino (cc-by-sa)"
+				},
+				{
+					"id": 460009,
+					"image_url": "https://bs.plantnet.org/image/o/7cb19bf7969ed55634d412fe65f1c8a7cd47cb3b",
+					"copyright": "Taken Jul 21, 2019 by Jean-Philippe Burg (cc-by-sa)"
+				},
+				{
+					"id": 460010,
+					"image_url": "https://bs.plantnet.org/image/o/f5f2a3d241dcd22e237cdebdbf770477721516f0",
+					"copyright": "Taken Jun 20, 2017 by Jose Luis Romero (cc-by-sa)"
+				},
+				{
+					"id": 460011,
+					"image_url": "https://bs.plantnet.org/image/o/aefdb97eb4b946bab17ca2ba89f9aa75e5a5c3df",
+					"copyright": "Taken Jun 20, 2017 by Jose Luis Romero (cc-by-sa)"
+				}
+			],
+			"fruit": [
+				{
+					"id": 460012,
+					"image_url": "https://bs.plantnet.org/image/o/6ead70629d238b548d77fe40164c10aa6eef1812",
+					"copyright": "Taken Jun 19, 2019 by Louis RootsRevival (cc-by-sa)"
+				},
+				{
+					"id": 460013,
+					"image_url": "https://bs.plantnet.org/image/o/c9b1fce7b461a72e8e0815657e96ab133aee20cf",
+					"copyright": "Taken Sep 4, 2019 by galtzagorri (cc-by-sa)"
+				},
+				{
+					"id": 460014,
+					"image_url": "https://bs.plantnet.org/image/o/d76ea11d9e1f5c60c4788700c0bb37ad41994363",
+					"copyright": "Taken Sep 23, 2021 by Jacques Zuber (cc-by-sa)"
+				},
+				{
+					"id": 460015,
+					"image_url": "https://bs.plantnet.org/image/o/768d36dceba161a6e8959867b226c65ccbf46ff8",
+					"copyright": "Taken Sep 23, 2021 by Jacques Zuber (cc-by-sa)"
+				},
+				{
+					"id": 460016,
+					"image_url": "https://bs.plantnet.org/image/o/14572a8b96d7b9462323cc6fcc9cb56c9fc40ec4",
+					"copyright": "Taken Sep 10, 2021 by Francois Mansour (cc-by-sa)"
+				}
+			],
+			"leaf": [
+				{
+					"id": 460017,
+					"image_url": "https://bs.plantnet.org/image/o/e66c44176898a7bac07201462b2153bc5b0b3e33",
+					"copyright": "Taken Jul 8, 2022 by Bart DM (cc-by-sa)"
+				},
+				{
+					"id": 460018,
+					"image_url": "https://bs.plantnet.org/image/o/1e20b8a576a85179e21e662b007672bdf8678b11",
+					"copyright": "Taken Sep 4, 2019 by galtzagorri (cc-by-sa)"
+				},
+				{
+					"id": 460019,
+					"image_url": "https://bs.plantnet.org/image/o/31a3932a564037f0d2f959476db37de3feaca660",
+					"copyright": "Taken Sep 24, 2021 by Francisco Sanchez (cc-by-sa)"
+				},
+				{
+					"id": 460020,
+					"image_url": "https://bs.plantnet.org/image/o/453e2ec59e10d2d7dfffd26bf03756d19b04c7a1",
+					"copyright": "Taken Sep 23, 2021 by Jacques Zuber (cc-by-sa)"
+				},
+				{
+					"id": 460021,
+					"image_url": "https://bs.plantnet.org/image/o/c787dd2672404218eef33f17be1c837f4af76650",
+					"copyright": "Taken Sep 10, 2021 by Francois Mansour (cc-by-sa)"
+				}
+			],
+			"habit": [
+				{
+					"id": 460022,
+					"image_url": "https://bs.plantnet.org/image/o/ad20bbdcadf5813d2c6fbe5f7d9bc66661e74691",
+					"copyright": "Taken Jul 17, 2022 by selber pflanzen (cc-by-sa)"
+				},
+				{
+					"id": 460023,
+					"image_url": "https://bs.plantnet.org/image/o/168ee7151e03184eaa0ae4d4ed31f8a0131e39f6",
+					"copyright": "Taken Sep 6, 2019 by Julien Bernard (cc-by-sa)"
+				},
+				{
+					"id": 460024,
+					"image_url": "https://bs.plantnet.org/image/o/7f70c4ed641fe420a2c43ad50248e5502dc357d4",
+					"copyright": "Taken Jul 15, 2021 by Pierre LEON (cc-by-sa)"
+				},
+				{
+					"id": 460025,
+					"image_url": "https://bs.plantnet.org/image/o/79fb0f14c0debb15ad0c1ebbcb317a7df72319b2",
+					"copyright": "Taken Sep 23, 2021 by Jacques Zuber (cc-by-sa)"
+				},
+				{
+					"id": 460026,
+					"image_url": "https://bs.plantnet.org/image/o/53c73903dc455a3d734b193dad7d9d8c4ec0e324",
+					"copyright": "Taken Sep 10, 2021 by Francois Mansour (cc-by-sa)"
+				}
+			],
+			"bark": [
+				{
+					"id": 460027,
+					"image_url": "https://bs.plantnet.org/image/o/f6851d609bbf411f0bd098a2c380e14d812e4971",
+					"copyright": "Taken Jul 3, 2021 by Mia Westerhof (cc-by-sa)"
+				},
+				{
+					"id": 460028,
+					"image_url": "https://bs.plantnet.org/image/o/0927be544c69f93b16eec52b037b841d767ae652",
+					"copyright": "Taken Sep 24, 2021 by Francisco Sanchez (cc-by-sa)"
+				},
+				{
+					"id": 460029,
+					"image_url": "https://bs.plantnet.org/image/o/5b4dcb08348ece92edc83931e74bd2c6cca37fb5",
+					"copyright": "Taken Jul 15, 2021 by Pierre LEON (cc-by-sa)"
+				},
+				{
+					"id": 460030,
+					"image_url": "https://bs.plantnet.org/image/o/eba2167b719dc16f6387a72f3f225c354b413f28",
+					"copyright": "Taken Sep 22, 2022 by Gaël Covain (cc-by-sa)"
+				},
+				{
+					"id": 460031,
+					"image_url": "https://bs.plantnet.org/image/o/2818accafadf1573f286dcbd2ef52dfe46d67bf4",
+					"copyright": "Taken Jul 17, 2022 by selber pflanzen (cc-by-sa)"
+				}
+			],
+			"other": [
+				{
+					"id": 460032,
+					"image_url": "https://bs.plantnet.org/image/o/713e86b0de269decda41387a86ffadb44ed85fa2",
+					"copyright": "Taken Jul 23, 2013 by Tela Botanica − Jean-Pascal MILCENT (cc-by-sa)"
+				},
+				{
+					"id": 460033,
+					"image_url": "https://bs.plantnet.org/image/o/0edfcdf0e72938f56b8226549dbe9b8b20a25b85",
+					"copyright": "Taken Jun 20, 2022 by Myriam Garcia (cc-by-sa)"
+				},
+				{
+					"id": 460034,
+					"image_url": "https://bs.plantnet.org/image/o/78418ff86e61575e99b2c290107d5ba371e3a212",
+					"copyright": "Taken Jun 12, 2021 by Philippe Prat (cc-by-sa)"
+				},
+				{
+					"id": 460035,
+					"image_url": "https://bs.plantnet.org/image/o/51643541615343687b7c0adc022fa3109686a4a6",
+					"copyright": "Taken Jun 30, 2020 by jeremy (cc-by-sa)"
+				},
+				{
+					"id": 460036,
+					"image_url": "https://bs.plantnet.org/image/o/dec36d2199f0c031e87a6c9c72d9c9f5e6a8f780",
+					"copyright": "Taken Jul 15, 2022 by Régine Brochard (cc-by-sa)"
+				}
+			],
+			"": [
+				{
+					"id": 460004,
+					"image_url": "https://d2seqvvyy3b8p2.cloudfront.net/4b260da6b892f4fa33a336fdf3099d06.jpg",
+					"copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+				},
+				{
+					"id": 460005,
+					"image_url": "https://d2seqvvyy3b8p2.cloudfront.net/658520fa30ec96562a6f67b46040628d.jpg",
+					"copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+				},
+				{
+					"id": 460006,
+					"image_url": "https://d2seqvvyy3b8p2.cloudfront.net/87dd5b2e7d85b16c56355abc0a32168f.jpg",
+					"copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+				}
+			]
+		},
+		"common_names": {
+			"dan": [
+				"almindelig mjødurt"
+			],
+			"deu": [
+				"echtes mädesüß",
+				"wiesen-spierstaude"
+			],
+			"eng": [
+				"meadowsweet",
+				"queen of the meadow",
+				"queen-of-the-meadow",
+				"elm queen-of-the-meadow",
+				"white queen-of-the-meadow"
+			],
+			"nor": [
+				"st. hansgræs",
+				"bergmandel",
+				"bøndermuskat",
+				"kallgræs",
+				"korsgræs",
+				"maygræs",
+				"mjurt",
+				"mjøurt",
+				"møurt"
+			],
+			"nob": [
+				"mjødurt"
+			],
+			"nno": [
+				"mjødurt"
+			],
+			"nld": [
+				"moerasspirea"
+			],
+			"fin": [
+				"niittymesiangervo"
+			],
+			"swe": [
+				"niittymesiangervo",
+				"älggräs",
+				"alggräs"
+			],
+			"fra": [
+				"reine-des-prés"
+			],
+			"sme": [
+				"miehtaskážir",
+				"hádjarássi"
+			],
+			"cym": [
+				"barf y bwch",
+				"brenhines y ddôl",
+				"brenhines y meysydd",
+				"brenhines y waun",
+				"brenhines y weirglodd",
+				"bugeiles y weirglodd",
+				"chwys arthur",
+				"erchwaint",
+				"erchwraid",
+				"erchwreid",
+				"erwain",
+				"erwaint",
+				"llysiau blodau'r mêl",
+				"llysiau'r forwyn",
+				"meddlys"
+			],
+			"gla": [
+				"crios chù chulainn",
+				"criosan chù chulainn"
+			],
+			"en": [
+				"Meadowsweet",
+				"Queen-of-the-meadow",
+				"Queen of the meadow",
+				"Elm queen-of-the-meadow",
+				"White queen-of-the-meadow",
+				"Bridewort",
+				"Honey-sweet",
+				"Lady of the meadow",
+				"Meadow Queen",
+				"Meadow-sweet",
+				"Pride of the Meadow"
+			],
+			"ar": [
+				"إكليلية المروج"
+			],
+			"hy": [
+				"Փրփրուկ թեղանման"
+			],
+			"az": [
+				"Qarağacyarpaq quşqonmaz"
+			],
+			"ba": [
+				"Еркәүек"
+			],
+			"eu": [
+				"Nasai-lore"
+			],
+			"be": [
+				"Вятроўнік вязалісты"
+			],
+			"bg": [
+				"Обикновено орехче"
+			],
+			"ca": [
+				"Reina dels prats",
+				"Ulmària"
+			],
+			"zh": [
+				"Xuan guo wen zi cao",
+				"旋果蚊子草",
+				"旋果蚊草子"
+			],
+			"kw": [
+				"Medhles"
+			],
+			"hr": [
+				"Končara"
+			],
+			"cs": [
+				"Tužebník jilmový"
+			],
+			"da": [
+				"Almindelig Mjødurt"
+			],
+			"nl": [
+				"Moerasspirea"
+			],
+			"et": [
+				"Harilik angervaks"
+			],
+			"fi": [
+				"Mesiangervo",
+				"Niittymesiangervo"
+			],
+			"fr": [
+				"Reine-des-prés",
+				"Fausse Spirée",
+				"Filipendule ulmaire",
+				"Spirée ulmaire",
+				"Reine des prés"
+			],
+			"gl": [
+				"Herba ulmeira"
+			],
+			"de": [
+				"Groβes Mädesüß",
+				"Mädesüss",
+				"Echtes Mädesüß",
+				"Wiesen-Spierstaude",
+				"Echtes-Mädesüß",
+				"Johannes Wedel",
+				"Moor-Spierstaude"
+			],
+			"hu": [
+				"Réti legyezőfű"
+			],
+			"is": [
+				"Mjaðurt",
+				"Mjaðjurt"
+			],
+			"ga": [
+				"Airgead luachra"
+			],
+			"it": [
+				"Olmaria comune",
+				"Olmaria",
+				"Regina dei prati"
+			],
+			"lv": [
+				"Parastā vīgrieze"
+			],
+			"li": [
+				"Moerasspirea"
+			],
+			"lt": [
+				"Pelkinė vingiorykštė"
+			],
+			"mk": [
+				"Медуника"
+			],
+			"se": [
+				"Miehtaskážir",
+				"Hádjarássi"
+			],
+			"no": [
+				"Mjødurt",
+				"St. Hansgræs",
+				"Bergmandel",
+				"Bøndermuskat",
+				"Kallgræs",
+				"Korsgræs",
+				"Maygræs",
+				"Mjurt",
+				"Mjøurt",
+				"Møurt"
+			],
+			"nb": [
+				"Mjødurt"
+			],
+			"nn": [
+				"Mjødurt"
+			],
+			"fa": [
+				"اسپیره"
+			],
+			"pl": [
+				"Wiązówka błotna"
+			],
+			"ro": [
+				"Crețușcă"
+			],
+			"ru": [
+				"Таволга вязолистная"
+			],
+			"gd": [
+				"Crios Chù Chulainn",
+				"Criosan Chù Chulainn"
+			],
+			"sr": [
+				"Суручица"
+			],
+			"sk": [
+				"Túžobník brestový"
+			],
+			"es": [
+				"Reina de los prados",
+				"Ulmaria",
+				"Brestovolistni oslad",
+				"Reina del prado"
+			],
+			"sv": [
+				"Älggräs",
+				"Älgört",
+				"Niittymesiangervo",
+				"Alggräs",
+				"Mjödört"
+			],
+			"zh-tw": [
+				"旋果蚊草子"
+			],
+			"zh-hant": [
+				"旋果蚊草子"
+			],
+			"tr": [
+				"Çayırkraliçesi"
+			],
+			"uk": [
+				"Гадючник в'язолистий"
+			],
+			"cy": [
+				"Erwain",
+				"Barf y Bwch",
+				"Brenhines y Ddôl",
+				"Brenhines y Meysydd",
+				"Brenhines y Waun",
+				"Brenhines y Weirglodd",
+				"Bugeiles y Weirglodd",
+				"Chwys Arthur",
+				"Erchwaint",
+				"Erchwraid",
+				"Erchwreid",
+				"Erwaint",
+				"Llysiau Blodau'r Mêl",
+				"Llysiau'r Forwyn",
+				"Meddlys"
+			]
+		},
+		"distribution": {
+			"native": [
+				"Albania",
+				"Altay",
+				"Austria",
+				"Baltic States",
+				"Belarus",
+				"Belgium",
+				"Bulgaria",
+				"Buryatiya",
+				"Central European Rus",
+				"Czechoslovakia",
+				"Denmark",
+				"East European Russia",
+				"Finland",
+				"France",
+				"Germany",
+				"Great Britain",
+				"Greece",
+				"Hungary",
+				"Iceland",
+				"Iran",
+				"Ireland",
+				"Irkutsk",
+				"Italy",
+				"Kazakhstan",
+				"Kirgizstan",
+				"Krasnoyarsk",
+				"Krym",
+				"Mongolia",
+				"Netherlands",
+				"North Caucasus",
+				"North European Russi",
+				"Northwest European R",
+				"Norway",
+				"Poland",
+				"Portugal",
+				"Primorye",
+				"Romania",
+				"South European Russi",
+				"Spain",
+				"Sweden",
+				"Switzerland",
+				"Transcaucasus",
+				"Turkey",
+				"Tuva",
+				"Ukraine",
+				"West Siberia",
+				"Xinjiang",
+				"Yakutskiya",
+				"Yugoslavia"
+			],
+			"introduced": [
+				"Colorado",
+				"Illinois",
+				"Minnesota",
+				"New York",
+				"Newfoundland",
+				"Québec",
+				"Vermont",
+				"Wisconsin"
+			]
+		},
+		"distributions": {
+			"native": [
+				{
+					"id": 93,
+					"name": "Albania",
+					"slug": "alb",
+					"tdwg_code": "ALB",
+					"tdwg_level": 3,
+					"species_count": 5073,
+					"links": {
+						"self": "/api/v1/distributions/alb",
+						"plants": "/api/v1/distributions/alb/plants",
+						"species": "/api/v1/distributions/alb/species"
+					}
+				},
+				{
+					"id": 303,
+					"name": "Altay",
+					"slug": "alt",
+					"tdwg_code": "ALT",
+					"tdwg_level": 3,
+					"species_count": 3275,
+					"links": {
+						"self": "/api/v1/distributions/alt",
+						"plants": "/api/v1/distributions/alt/plants",
+						"species": "/api/v1/distributions/alt/species"
+					}
+				},
+				{
+					"id": 275,
+					"name": "Austria",
+					"slug": "aut",
+					"tdwg_code": "AUT",
+					"tdwg_level": 3,
+					"species_count": 6340,
+					"links": {
+						"self": "/api/v1/distributions/aut",
+						"plants": "/api/v1/distributions/aut/plants",
+						"species": "/api/v1/distributions/aut/species"
+					}
+				},
+				{
+					"id": 276,
+					"name": "Baltic States",
+					"slug": "blt",
+					"tdwg_code": "BLT",
+					"tdwg_level": 3,
+					"species_count": 2847,
+					"links": {
+						"self": "/api/v1/distributions/blt",
+						"plants": "/api/v1/distributions/blt/plants",
+						"species": "/api/v1/distributions/blt/species"
+					}
+				},
+				{
+					"id": 277,
+					"name": "Belarus",
+					"slug": "blr",
+					"tdwg_code": "BLR",
+					"tdwg_level": 3,
+					"species_count": 2372,
+					"links": {
+						"self": "/api/v1/distributions/blr",
+						"plants": "/api/v1/distributions/blr/plants",
+						"species": "/api/v1/distributions/blr/species"
+					}
+				},
+				{
+					"id": 278,
+					"name": "Belgium",
+					"slug": "bgm",
+					"tdwg_code": "BGM",
+					"tdwg_level": 3,
+					"species_count": 3572,
+					"links": {
+						"self": "/api/v1/distributions/bgm",
+						"plants": "/api/v1/distributions/bgm/plants",
+						"species": "/api/v1/distributions/bgm/species"
+					}
+				},
+				{
+					"id": 94,
+					"name": "Bulgaria",
+					"slug": "bul",
+					"tdwg_code": "BUL",
+					"tdwg_level": 3,
+					"species_count": 6036,
+					"links": {
+						"self": "/api/v1/distributions/bul",
+						"plants": "/api/v1/distributions/bul/plants",
+						"species": "/api/v1/distributions/bul/species"
+					}
+				},
+				{
+					"id": 305,
+					"name": "Buryatiya",
+					"slug": "bry",
+					"tdwg_code": "BRY",
+					"tdwg_level": 3,
+					"species_count": 2312,
+					"links": {
+						"self": "/api/v1/distributions/bry",
+						"plants": "/api/v1/distributions/bry/plants",
+						"species": "/api/v1/distributions/bry/species"
+					}
+				},
+				{
+					"id": 279,
+					"name": "Central European Rus",
+					"slug": "ruc",
+					"tdwg_code": "RUC",
+					"tdwg_level": 3,
+					"species_count": 3157,
+					"links": {
+						"self": "/api/v1/distributions/ruc",
+						"plants": "/api/v1/distributions/ruc/plants",
+						"species": "/api/v1/distributions/ruc/species"
+					}
+				},
+				{
+					"id": 99,
+					"name": "Czechoslovakia",
+					"slug": "cze",
+					"tdwg_code": "CZE",
+					"tdwg_level": 3,
+					"species_count": 6071,
+					"links": {
+						"self": "/api/v1/distributions/cze",
+						"plants": "/api/v1/distributions/cze/plants",
+						"species": "/api/v1/distributions/cze/species"
+					}
+				},
+				{
+					"id": 280,
+					"name": "Denmark",
+					"slug": "den",
+					"tdwg_code": "DEN",
+					"tdwg_level": 3,
+					"species_count": 2996,
+					"links": {
+						"self": "/api/v1/distributions/den",
+						"plants": "/api/v1/distributions/den/plants",
+						"species": "/api/v1/distributions/den/species"
+					}
+				},
+				{
+					"id": 281,
+					"name": "East European Russia",
+					"slug": "rue",
+					"tdwg_code": "RUE",
+					"tdwg_level": 3,
+					"species_count": 3526,
+					"links": {
+						"self": "/api/v1/distributions/rue",
+						"plants": "/api/v1/distributions/rue/plants",
+						"species": "/api/v1/distributions/rue/species"
+					}
+				},
+				{
+					"id": 282,
+					"name": "Finland",
+					"slug": "fin",
+					"tdwg_code": "FIN",
+					"tdwg_level": 3,
+					"species_count": 3400,
+					"links": {
+						"self": "/api/v1/distributions/fin",
+						"plants": "/api/v1/distributions/fin/plants",
+						"species": "/api/v1/distributions/fin/species"
+					}
+				},
+				{
+					"id": 126,
+					"name": "France",
+					"slug": "fra",
+					"tdwg_code": "FRA",
+					"tdwg_level": 3,
+					"species_count": 9809,
+					"links": {
+						"self": "/api/v1/distributions/fra",
+						"plants": "/api/v1/distributions/fra/plants",
+						"species": "/api/v1/distributions/fra/species"
+					}
+				},
+				{
+					"id": 284,
+					"name": "Germany",
+					"slug": "ger",
+					"tdwg_code": "GER",
+					"tdwg_level": 3,
+					"species_count": 6595,
+					"links": {
+						"self": "/api/v1/distributions/ger",
+						"plants": "/api/v1/distributions/ger/plants",
+						"species": "/api/v1/distributions/ger/species"
+					}
+				},
+				{
+					"id": 127,
+					"name": "Great Britain",
+					"slug": "grb",
+					"tdwg_code": "GRB",
+					"tdwg_level": 3,
+					"species_count": 5424,
+					"links": {
+						"self": "/api/v1/distributions/grb",
+						"plants": "/api/v1/distributions/grb/plants",
+						"species": "/api/v1/distributions/grb/species"
+					}
+				},
+				{
+					"id": 95,
+					"name": "Greece",
+					"slug": "grc",
+					"tdwg_code": "GRC",
+					"tdwg_level": 3,
+					"species_count": 7536,
+					"links": {
+						"self": "/api/v1/distributions/grc",
+						"plants": "/api/v1/distributions/grc/plants",
+						"species": "/api/v1/distributions/grc/species"
+					}
+				},
+				{
+					"id": 285,
+					"name": "Hungary",
+					"slug": "hun",
+					"tdwg_code": "HUN",
+					"tdwg_level": 3,
+					"species_count": 3972,
+					"links": {
+						"self": "/api/v1/distributions/hun",
+						"plants": "/api/v1/distributions/hun/plants",
+						"species": "/api/v1/distributions/hun/species"
+					}
+				},
+				{
+					"id": 314,
+					"name": "Iceland",
+					"slug": "ice",
+					"tdwg_code": "ICE",
+					"tdwg_level": 3,
+					"species_count": 1115,
+					"links": {
+						"self": "/api/v1/distributions/ice",
+						"plants": "/api/v1/distributions/ice/plants",
+						"species": "/api/v1/distributions/ice/species"
+					}
+				},
+				{
+					"id": 11,
+					"name": "Iran",
+					"slug": "irn",
+					"tdwg_code": "IRN",
+					"tdwg_level": 3,
+					"species_count": 9338,
+					"links": {
+						"self": "/api/v1/distributions/irn",
+						"plants": "/api/v1/distributions/irn/plants",
+						"species": "/api/v1/distributions/irn/species"
+					}
+				},
+				{
+					"id": 286,
+					"name": "Ireland",
+					"slug": "ire",
+					"tdwg_code": "IRE",
+					"tdwg_level": 3,
+					"species_count": 2458,
+					"links": {
+						"self": "/api/v1/distributions/ire",
+						"plants": "/api/v1/distributions/ire/plants",
+						"species": "/api/v1/distributions/ire/species"
+					}
+				},
+				{
+					"id": 307,
+					"name": "Irkutsk",
+					"slug": "irk",
+					"tdwg_code": "IRK",
+					"tdwg_level": 3,
+					"species_count": 2219,
+					"links": {
+						"self": "/api/v1/distributions/irk",
+						"plants": "/api/v1/distributions/irk/plants",
+						"species": "/api/v1/distributions/irk/species"
+					}
+				},
+				{
+					"id": 119,
+					"name": "Italy",
+					"slug": "ita",
+					"tdwg_code": "ITA",
+					"tdwg_level": 3,
+					"species_count": 9715,
+					"links": {
+						"self": "/api/v1/distributions/ita",
+						"plants": "/api/v1/distributions/ita/plants",
+						"species": "/api/v1/distributions/ita/species"
+					}
+				},
+				{
+					"id": 267,
+					"name": "Kazakhstan",
+					"slug": "kaz",
+					"tdwg_code": "KAZ",
+					"tdwg_level": 3,
+					"species_count": 6151,
+					"links": {
+						"self": "/api/v1/distributions/kaz",
+						"plants": "/api/v1/distributions/kaz/plants",
+						"species": "/api/v1/distributions/kaz/species"
+					}
+				},
+				{
+					"id": 308,
+					"name": "Kirgizstan",
+					"slug": "kgz",
+					"tdwg_code": "KGZ",
+					"tdwg_level": 3,
+					"species_count": 4407,
+					"links": {
+						"self": "/api/v1/distributions/kgz",
+						"plants": "/api/v1/distributions/kgz/plants",
+						"species": "/api/v1/distributions/kgz/species"
+					}
+				},
+				{
+					"id": 309,
+					"name": "Krasnoyarsk",
+					"slug": "kra",
+					"tdwg_code": "KRA",
+					"tdwg_level": 3,
+					"species_count": 2733,
+					"links": {
+						"self": "/api/v1/distributions/kra",
+						"plants": "/api/v1/distributions/kra/plants",
+						"species": "/api/v1/distributions/kra/species"
+					}
+				},
+				{
+					"id": 268,
+					"name": "Krym",
+					"slug": "kry",
+					"tdwg_code": "KRY",
+					"tdwg_level": 3,
+					"species_count": 3310,
+					"links": {
+						"self": "/api/v1/distributions/kry",
+						"plants": "/api/v1/distributions/kry/plants",
+						"species": "/api/v1/distributions/kry/species"
+					}
+				},
+				{
+					"id": 321,
+					"name": "Mongolia",
+					"slug": "mon",
+					"tdwg_code": "MON",
+					"tdwg_level": 3,
+					"species_count": 3517,
+					"links": {
+						"self": "/api/v1/distributions/mon",
+						"plants": "/api/v1/distributions/mon/plants",
+						"species": "/api/v1/distributions/mon/species"
+					}
+				},
+				{
+					"id": 287,
+					"name": "Netherlands",
+					"slug": "net",
+					"tdwg_code": "NET",
+					"tdwg_level": 3,
+					"species_count": 2998,
+					"links": {
+						"self": "/api/v1/distributions/net",
+						"plants": "/api/v1/distributions/net/plants",
+						"species": "/api/v1/distributions/net/species"
+					}
+				},
+				{
+					"id": 288,
+					"name": "North Caucasus",
+					"slug": "ncs",
+					"tdwg_code": "NCS",
+					"tdwg_level": 3,
+					"species_count": 5309,
+					"links": {
+						"self": "/api/v1/distributions/ncs",
+						"plants": "/api/v1/distributions/ncs/plants",
+						"species": "/api/v1/distributions/ncs/species"
+					}
+				},
+				{
+					"id": 289,
+					"name": "North European Russi",
+					"slug": "run",
+					"tdwg_code": "RUN",
+					"tdwg_level": 3,
+					"species_count": 2656,
+					"links": {
+						"self": "/api/v1/distributions/run",
+						"plants": "/api/v1/distributions/run/plants",
+						"species": "/api/v1/distributions/run/species"
+					}
+				},
+				{
+					"id": 290,
+					"name": "Northwest European R",
+					"slug": "ruw",
+					"tdwg_code": "RUW",
+					"tdwg_level": 3,
+					"species_count": 2333,
+					"links": {
+						"self": "/api/v1/distributions/ruw",
+						"plants": "/api/v1/distributions/ruw/plants",
+						"species": "/api/v1/distributions/ruw/species"
+					}
+				},
+				{
+					"id": 291,
+					"name": "Norway",
+					"slug": "nor",
+					"tdwg_code": "NOR",
+					"tdwg_level": 3,
+					"species_count": 3444,
+					"links": {
+						"self": "/api/v1/distributions/nor",
+						"plants": "/api/v1/distributions/nor/plants",
+						"species": "/api/v1/distributions/nor/species"
+					}
+				},
+				{
+					"id": 292,
+					"name": "Poland",
+					"slug": "pol",
+					"tdwg_code": "POL",
+					"tdwg_level": 3,
+					"species_count": 4615,
+					"links": {
+						"self": "/api/v1/distributions/pol",
+						"plants": "/api/v1/distributions/pol/plants",
+						"species": "/api/v1/distributions/pol/species"
+					}
+				},
+				{
+					"id": 134,
+					"name": "Portugal",
+					"slug": "por",
+					"tdwg_code": "POR",
+					"tdwg_level": 3,
+					"species_count": 4214,
+					"links": {
+						"self": "/api/v1/distributions/por",
+						"plants": "/api/v1/distributions/por/plants",
+						"species": "/api/v1/distributions/por/species"
+					}
+				},
+				{
+					"id": 311,
+					"name": "Primorye",
+					"slug": "prm",
+					"tdwg_code": "PRM",
+					"tdwg_level": 3,
+					"species_count": 3247,
+					"links": {
+						"self": "/api/v1/distributions/prm",
+						"plants": "/api/v1/distributions/prm/plants",
+						"species": "/api/v1/distributions/prm/species"
+					}
+				},
+				{
+					"id": 96,
+					"name": "Romania",
+					"slug": "rom",
+					"tdwg_code": "ROM",
+					"tdwg_level": 3,
+					"species_count": 5568,
+					"links": {
+						"self": "/api/v1/distributions/rom",
+						"plants": "/api/v1/distributions/rom/plants",
+						"species": "/api/v1/distributions/rom/species"
+					}
+				},
+				{
+					"id": 270,
+					"name": "South European Russi",
+					"slug": "rus",
+					"tdwg_code": "RUS",
+					"tdwg_level": 3,
+					"species_count": 3169,
+					"links": {
+						"self": "/api/v1/distributions/rus",
+						"plants": "/api/v1/distributions/rus/plants",
+						"species": "/api/v1/distributions/rus/species"
+					}
+				},
+				{
+					"id": 135,
+					"name": "Spain",
+					"slug": "spa",
+					"tdwg_code": "SPA",
+					"tdwg_level": 3,
+					"species_count": 9864,
+					"links": {
+						"self": "/api/v1/distributions/spa",
+						"plants": "/api/v1/distributions/spa/plants",
+						"species": "/api/v1/distributions/spa/species"
+					}
+				},
+				{
+					"id": 293,
+					"name": "Sweden",
+					"slug": "swe",
+					"tdwg_code": "SWE",
+					"tdwg_level": 3,
+					"species_count": 5175,
+					"links": {
+						"self": "/api/v1/distributions/swe",
+						"plants": "/api/v1/distributions/swe/plants",
+						"species": "/api/v1/distributions/swe/species"
+					}
+				},
+				{
+					"id": 294,
+					"name": "Switzerland",
+					"slug": "swi",
+					"tdwg_code": "SWI",
+					"tdwg_level": 3,
+					"species_count": 5575,
+					"links": {
+						"self": "/api/v1/distributions/swi",
+						"plants": "/api/v1/distributions/swi/plants",
+						"species": "/api/v1/distributions/swi/species"
+					}
+				},
+				{
+					"id": 272,
+					"name": "Transcaucasus",
+					"slug": "tcs",
+					"tdwg_code": "TCS",
+					"tdwg_level": 3,
+					"species_count": 7183,
+					"links": {
+						"self": "/api/v1/distributions/tcs",
+						"plants": "/api/v1/distributions/tcs/plants",
+						"species": "/api/v1/distributions/tcs/species"
+					}
+				},
+				{
+					"id": 107,
+					"name": "Turkey",
+					"slug": "tur",
+					"tdwg_code": "TUR",
+					"tdwg_level": 3,
+					"species_count": 12211,
+					"links": {
+						"self": "/api/v1/distributions/tur",
+						"plants": "/api/v1/distributions/tur/plants",
+						"species": "/api/v1/distributions/tur/species"
+					}
+				},
+				{
+					"id": 312,
+					"name": "Tuva",
+					"slug": "tva",
+					"tdwg_code": "TVA",
+					"tdwg_level": 3,
+					"species_count": 2081,
+					"links": {
+						"self": "/api/v1/distributions/tva",
+						"plants": "/api/v1/distributions/tva/plants",
+						"species": "/api/v1/distributions/tva/species"
+					}
+				},
+				{
+					"id": 273,
+					"name": "Ukraine",
+					"slug": "ukr",
+					"tdwg_code": "UKR",
+					"tdwg_level": 3,
+					"species_count": 4853,
+					"links": {
+						"self": "/api/v1/distributions/ukr",
+						"plants": "/api/v1/distributions/ukr/plants",
+						"species": "/api/v1/distributions/ukr/species"
+					}
+				},
+				{
+					"id": 296,
+					"name": "West Siberia",
+					"slug": "wsb",
+					"tdwg_code": "WSB",
+					"tdwg_level": 3,
+					"species_count": 3027,
+					"links": {
+						"self": "/api/v1/distributions/wsb",
+						"plants": "/api/v1/distributions/wsb/plants",
+						"species": "/api/v1/distributions/wsb/species"
+					}
+				},
+				{
+					"id": 324,
+					"name": "Xinjiang",
+					"slug": "chx",
+					"tdwg_code": "CHX",
+					"tdwg_level": 3,
+					"species_count": 4059,
+					"links": {
+						"self": "/api/v1/distributions/chx",
+						"plants": "/api/v1/distributions/chx/plants",
+						"species": "/api/v1/distributions/chx/species"
+					}
+				},
+				{
+					"id": 313,
+					"name": "Yakutskiya",
+					"slug": "yak",
+					"tdwg_code": "YAK",
+					"tdwg_level": 3,
+					"species_count": 1993,
+					"links": {
+						"self": "/api/v1/distributions/yak",
+						"plants": "/api/v1/distributions/yak/plants",
+						"species": "/api/v1/distributions/yak/species"
+					}
+				},
+				{
+					"id": 98,
+					"name": "Yugoslavia",
+					"slug": "yug",
+					"tdwg_code": "YUG",
+					"tdwg_level": 3,
+					"species_count": 8125,
+					"links": {
+						"self": "/api/v1/distributions/yug",
+						"plants": "/api/v1/distributions/yug/plants",
+						"species": "/api/v1/distributions/yug/species"
+					}
+				}
+			],
+			"introduced": [
+				{
+					"id": 298,
+					"name": "Colorado",
+					"slug": "col",
+					"tdwg_code": "COL",
+					"tdwg_level": 3,
+					"species_count": 4331,
+					"links": {
+						"self": "/api/v1/distributions/col",
+						"plants": "/api/v1/distributions/col/plants",
+						"species": "/api/v1/distributions/col/species"
+					}
+				},
+				{
+					"id": 145,
+					"name": "Illinois",
+					"slug": "ill",
+					"tdwg_code": "ILL",
+					"tdwg_level": 3,
+					"species_count": 4133,
+					"links": {
+						"self": "/api/v1/distributions/ill",
+						"plants": "/api/v1/distributions/ill/plants",
+						"species": "/api/v1/distributions/ill/species"
+					}
+				},
+				{
+					"id": 257,
+					"name": "Minnesota",
+					"slug": "min",
+					"tdwg_code": "MIN",
+					"tdwg_level": 3,
+					"species_count": 2934,
+					"links": {
+						"self": "/api/v1/distributions/min",
+						"plants": "/api/v1/distributions/min/plants",
+						"species": "/api/v1/distributions/min/species"
+					}
+				},
+				{
+					"id": 237,
+					"name": "New York",
+					"slug": "nwy",
+					"tdwg_code": "NWY",
+					"tdwg_level": 3,
+					"species_count": 4781,
+					"links": {
+						"self": "/api/v1/distributions/nwy",
+						"plants": "/api/v1/distributions/nwy/plants",
+						"species": "/api/v1/distributions/nwy/species"
+					}
+				},
+				{
+					"id": 300,
+					"name": "Newfoundland",
+					"slug": "nfl",
+					"tdwg_code": "NFL",
+					"tdwg_level": 3,
+					"species_count": 1807,
+					"links": {
+						"self": "/api/v1/distributions/nfl",
+						"plants": "/api/v1/distributions/nfl/plants",
+						"species": "/api/v1/distributions/nfl/species"
+					}
+				},
+				{
+					"id": 242,
+					"name": "Québec",
+					"slug": "que",
+					"tdwg_code": "QUE",
+					"tdwg_level": 3,
+					"species_count": 3181,
+					"links": {
+						"self": "/api/v1/distributions/que",
+						"plants": "/api/v1/distributions/que/plants",
+						"species": "/api/v1/distributions/que/species"
+					}
+				},
+				{
+					"id": 243,
+					"name": "Vermont",
+					"slug": "ver",
+					"tdwg_code": "VER",
+					"tdwg_level": 3,
+					"species_count": 2952,
+					"links": {
+						"self": "/api/v1/distributions/ver",
+						"plants": "/api/v1/distributions/ver/plants",
+						"species": "/api/v1/distributions/ver/species"
+					}
+				},
+				{
+					"id": 258,
+					"name": "Wisconsin",
+					"slug": "wis",
+					"tdwg_code": "WIS",
+					"tdwg_level": 3,
+					"species_count": 3233,
+					"links": {
+						"self": "/api/v1/distributions/wis",
+						"plants": "/api/v1/distributions/wis/plants",
+						"species": "/api/v1/distributions/wis/species"
+					}
+				}
+			]
+		},
+		"flower": {
+			"color": null,
+			"conspicuous": null
+		},
+		"foliage": {
+			"texture": null,
+			"color": null,
+			"leaf_retention": null
+		},
+		"fruit_or_seed": {
+			"conspicuous": null,
+			"color": null,
+			"shape": null,
+			"seed_persistence": null
+		},
+		"sources": [
+			{
+				"last_update": "2022-12-05T16:46:13.061Z",
+				"id": "wfo-0000983427",
+				"name": "WFO",
+				"url": null,
+				"citation": null
+			},
+			{
+				"last_update": "2022-12-05T16:46:13.085Z",
+				"id": "724943-1",
+				"name": "IPNI",
+				"url": null,
+				"citation": null
+			},
+			{
+				"last_update": "2022-12-09T05:14:38.000Z",
+				"id": "2987999",
+				"name": "GBIF",
+				"url": "https://www.gbif.org/species/2987999",
+				"citation": null
+			},
+			{
+				"last_update": "2022-12-09T05:14:38.393Z",
+				"id": "urn:lsid:ipni.org:names:724943-1",
+				"name": "POWO",
+				"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724943-1",
+				"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+			},
+			{
+				"last_update": "2022-12-09T05:14:45.748Z",
+				"id": "Filipendula ulmaria (L.) Maxim.",
+				"name": "PlantNet",
+				"url": "https://identify.plantnet.org/species/the-plant-list/Filipendula ulmaria (L.) Maxim.",
+				"citation": null
+			}
+		],
+		"specifications": {
+			"ligneous_type": null,
+			"growth_form": null,
+			"growth_habit": "Forb/herb",
+			"growth_rate": null,
+			"average_height": {
+				"cm": null
+			},
+			"maximum_height": {
+				"cm": null
+			},
+			"nitrogen_fixation": null,
+			"shape_and_orientation": null,
+			"toxicity": null
+		},
+		"synonyms": [
+			{
+				"id": 666375,
+				"name": "Ulmaria ulmaria",
+				"author": "(L.) Barnhart",
+				"sources": [
+					{
+						"last_update": "2022-12-09T05:14:38.453Z",
+						"id": "urn:lsid:ipni.org:names:259344-2",
+						"name": "POWO",
+						"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:259344-2",
+						"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+					}
+				]
+			},
+			{
+				"id": 666376,
+				"name": "Thecanisia ulmaria",
+				"author": "(L.) Raf. ex B.D.Jacks.",
+				"sources": [
+					{
+						"last_update": "2022-12-09T05:14:38.503Z",
+						"id": "urn:lsid:ipni.org:names:2994005-4",
+						"name": "POWO",
+						"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:2994005-4",
+						"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+					}
+				]
+			},
+			{
+				"id": 666377,
+				"name": "Spiraea ulmaria",
+				"author": "L.",
+				"sources": [
+					{
+						"last_update": "2022-12-09T05:14:38.546Z",
+						"id": "urn:lsid:ipni.org:names:242465-2",
+						"name": "POWO",
+						"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:242465-2",
+						"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+					}
+				]
+			},
+			{
+				"id": 666378,
+				"name": "Spiraea ulmaria f. tomentosa",
+				"author": "(Hayne) St.-Lag.",
+				"sources": [
+					{
+						"last_update": "2022-12-09T05:14:38.585Z",
+						"id": "urn:lsid:ipni.org:names:2993834-4",
+						"name": "POWO",
+						"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:2993834-4",
+						"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+					}
+				]
+			},
+			{
+				"id": 666379,
+				"name": "Spiraea ulmaria var. tomentosa",
+				"author": "Hayne",
+				"sources": [
+					{
+						"last_update": "2022-12-09T05:14:38.622Z",
+						"id": "urn:lsid:ipni.org:names:60458801-2",
+						"name": "POWO",
+						"url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458801-2",
+						"citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2022-12-09"
+					}
+				]
+			}
+		],
+		"growth": {
+			"description": null,
+			"sowing": null,
+			"days_to_harvest": null,
+			"row_spacing": {
+				"cm": null
+			},
+			"spread": {
+				"cm": null
+			},
+			"ph_maximum": 6.5,
+			"ph_minimum": 5.5,
+			"light": 7,
+			"atmospheric_humidity": 8,
+			"growth_months": null,
+			"bloom_months": null,
+			"fruit_months": null,
+			"minimum_precipitation": {
+				"mm": null
+			},
+			"maximum_precipitation": {
+				"mm": null
+			},
+			"minimum_root_depth": {
+				"cm": null
+			},
+			"minimum_temperature": {
+				"deg_f": null,
+				"deg_c": null
+			},
+			"maximum_temperature": {
+				"deg_f": null,
+				"deg_c": null
+			},
+			"soil_nutriments": 6,
+			"soil_salinity": 0,
+			"soil_texture": null,
+			"soil_humidity": null
+		},
+		"links": {
+			"self": "/api/v1/species/filipendula-ulmaria",
+			"plant": "/api/v1/plants/filipendula-ulmaria",
+			"genus": "/api/v1/genus/filipendula"
+		}
+	},
+	"meta": {
+		"images_count": 33,
+		"sources_count": 5,
+		"synonyms_count": 0,
+		"last_modified": "2022-12-17T16:25:11.104Z"
+	}
+}
