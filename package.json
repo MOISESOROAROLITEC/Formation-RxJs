@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc --watch",
-		"webpack": "webpack -w"
+    "webpack": "webpack -w"
   },
   "keywords": [
     "rxjs",
@@ -16,6 +16,7 @@
   "author": "SORO COLOTCHOLOMAN",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "cors": "^2.8.5",
     "rxjs": "^7.8.1"
   },
   "devDependencies": {

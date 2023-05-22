@@ -19,8 +19,15 @@
 	</header>
 	<div id="app">
 		<h1>Ultimate RxJS</h1>
-		<input type="text" id="input-text" placeholder="Enter user name ...">
-		<div id="list_item"></div>
+		<section class="content">
+			<p id="info">Start polling to request random <a href="#" class="dogname">Dog</a> images!</p>
+			<p class="polling-status">Polling status : <span id="status" class="polling-status-stoped">Stoped</span></p>
+			<div class="buttons">
+				<button class="btn" id="start-btn">Start</button>
+				<button class="btn" id="stop-btn">Stop</button>
+			</div>
+			<img src="./src/images/rxjs.svg" alt="" id="dog-image">
+		</section>
 	</div>
 	<script src="dist/bundle.js"></script>
 </body>
