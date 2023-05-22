@@ -1,13 +1,11 @@
-import { from, fromEvent, interval, merge } from "rxjs";
-import { delay, endWith, exhaustMap, filter, map, scan, skipUntil, startWith, takeUntil, takeWhile, tap } from "rxjs/operators";
+import { combineLatest, from, fromEvent, interval, merge } from "rxjs";
+import { combineLatestWith, delay, map } from "rxjs/operators";
 
 const click$ = fromEvent(document, "click");
 const keyup$ = fromEvent(document, "keyup");
 
-// click$.subscribe(console.log)
-// keyup$.subscribe(console.log)
 
-merge(
-	click$.pipe(delay(1000)),
-	keyup$
+click$.pipe(
+	combineLatestWith(keyup$),
+	map(([e1, e2]) => `first element is : ${e1.pointerType}, seconde element is : ${e2.code}`)
 ).subscribe(console.log)
