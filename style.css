@@ -97,28 +97,30 @@ body {
 }
 
 #start-btn {
-	background-color: #00f000;
+	background-color: #00ff00;
+	color: black;
 }
 
 #stop-btn {
-	background-color: #f00000;
+	background-color: #ff0000;
+	color: black;
 }
 
 
 #start-btn:hover {
-	background-color: #00f700;
+	background-color: #00d900;
 }
 
 #stop-btn:hover {
-	background-color: #f70000;
+	background-color: #d90000;
 }
 
 #start-btn:active {
-	background-color: #00ff00;
+	background-color: #00bf00;
 	color: white;
 }
 
 #stop-btn:active {
-	background-color: #ff0000;
+	background-color: #bf0000;
 	color: white;
 }
