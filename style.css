@@ -105,17 +105,30 @@ body {
 }
 
 #start-btn {
-	background-color: green;
+	background-color: #00d100;
 }
 
 #stop-btn {
-	background-color: rgb(207, 0, 0);
+	background-color: #f00000;
 }
 
+
 #start-btn:hover {
-	background-color: rgb(2, 163, 2);
+	background-color: #00d300;
+	color: black;
 }
 
 #stop-btn:hover {
-	background-color: rgb(255, 0, 0);
+	background-color: #dd0000;
+	color: black;
+}
+
+#start-btn:active {
+	background-color: #00d100;
+	color: white;
+}
+
+#stop-btn:active {
+	background-color: #f00000;
+	color: white;
 }
