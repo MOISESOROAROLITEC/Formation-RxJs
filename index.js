@@ -1,29 +1,46 @@
 import { from, fromEvent, interval } from "rxjs";
-import { filter, map, scan, takeUntil, takeWhile } from "rxjs/operators";
+import { endWith, exhaustMap, filter, map, scan, skipUntil, startWith, takeUntil, takeWhile, tap } from "rxjs/operators";
 
 const number = [1, 2, 3, 4, 5];
 
 const countdown = document.getElementsByClassName('countdown')[0]
 const message = document.getElementsByClassName('message')[0]
+const startBtn = document.getElementById('start-btn');
 const stopBtn = document.getElementById('stop-btn');
 
+const startBtn$ = fromEvent(startBtn, 'click');
 const stopBtn$ = fromEvent(stopBtn, 'click');
 
-const subscroptor = interval(1000).pipe(
-	map(() => -1),
+const COUNTDOWN_FROM = 10
 
-	scan((accumulator, value) => {
-		return accumulator + value
-	}, 11),
+countdown.innerHTML = COUNTDOWN_FROM;
 
-	takeWhile(el => el >= 0),
+startBtn$.pipe(
+	exhaustMap(() =>
+		interval(1000).pipe(
 
-	takeUntil(stopBtn$)
+			map(() => -1),
 
-)
+			tap(() => console.log("object")),
 
-subscroptor.subscribe((val) => {
-	countdown.innerHTML = val;
-	if (!val)
+			scan((accumulator, value) => {
+				return accumulator + value
+			}, COUNTDOWN_FROM),
+
+			takeWhile(el => el >= 0),
+
+			startWith(COUNTDOWN_FROM),
+
+			takeUntil(stopBtn$)
+		)
+	)
+).subscribe((val) => {
+	if (!val) {
+		message.style.display = "grid"
 		message.innerHTML = "Countdown finished !"
+		countdown.innerHTML = val;
+	} else {
+		countdown.innerHTML = val;
+		message.style.display = "none"
+	}
 });
