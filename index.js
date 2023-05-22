@@ -1,5 +1,5 @@
 import { from, interval } from "rxjs";
-import { filter, map, scan } from "rxjs/operators";
+import { filter, map, scan, takeWhile } from "rxjs/operators";
 
 const number = [1, 2, 3, 4, 5];
 
@@ -13,7 +13,7 @@ const subscroptor = interval(1000).pipe(
 		return accumulator + value
 	}, 11),
 
-	filter(val => val >= 0)
+	takeWhile(el => el >= 0)
 
 )
 
